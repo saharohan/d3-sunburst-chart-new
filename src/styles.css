@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#ac-chart-container {
+  height: 600px;
+}
+
+.sunburst-viz text .text-contour {
+  stroke-width: 0;
+}
